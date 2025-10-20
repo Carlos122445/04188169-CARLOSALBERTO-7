@@ -1,0 +1,13 @@
+1-
+composição: carro --- motor; casa --- quarto
+agregação: professor --- turma; loja --- funcionario
+
+2-
+A classe não podera ser heerdada
+o atributo não pode ser modificado
+
+3-
+os mettodos pertencem a classe, não ao objeto e podemser chamados sem instanciar uma classe
+
+4-
+clone() e hashCode()
